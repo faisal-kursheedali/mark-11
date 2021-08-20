@@ -1,0 +1,35 @@
+body{
+    background-color:#2e1114;
+    color: white;
+    font-family: 'Architects Daughter', cursive;
+    
+}
+.container{
+    
+    width: 50%;
+    margin: auto;
+    border:solid black;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 4rem;
+    background-color:#501b1d;
+}
+input,label,button,p{
+    display: block;
+}
+input{
+    width: 100%;
+    margin-top:0.5rem ;
+    margin-bottom: 00.5rem;
+    background-color:#83677b;
+}
+#check{
+    margin: auto;
+    border-radius: 0.5rem;
+    padding: 0.75rem;
+    margin-top: 0.5rem;
+    background-color:#adadad;
+    border: solid,;
+    border: 5rem;
+}
+
