@@ -11,6 +11,7 @@ body{
     padding: 1rem;
     border-radius: 0.5rem;
     margin-top: 4rem;
+    margin-bottom: 1rem;
     background-color:#501b1d;
 }
 input,label,button,p{
@@ -30,5 +31,40 @@ input{
     background-color:#adadad;
     border: solid,;
     border: 5rem;
+}
+.list-non-bullet{
+    list-style: none;
+
+}
+.list-unordered-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+    
+
+}
+.footer{
+    background-color:#83677b;
+    padding: 2rem 1rem;
+    color: black;
+    text-align: center;
+    border-top-right-radius: 1rem;
+    
+    
+
+}
+.footer .link{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.footer ul{
+    padding-inline-start: 0px;
+}
+.footer .footer-header{
+    font-weight: bolder;
+    font-size: x-large;
+}
+.secondary-weight p{
+    font-size: 1.5rem;
 }
 
